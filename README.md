@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lavishkaran
 - 👀 I’m interested in Ethical Hacking and Machine learning Algorithms.
 - 💢 I am Currently pursuing B-Tech in CSE from Shaheed Bhagat Singh State Technical Campus, Ferozpur.
-- 💫 Currently, I am Working as PR Head in @pagistination, an open source application.
+- 💫 Currently, I am Working as PR Head in @Pagistnation, an open source application.
 - 💦 You guys will get wonderfull stuff here so that you can work easier.
 
 <!---
